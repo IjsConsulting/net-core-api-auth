@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using net_core_api_auth.Models;
 
@@ -8,6 +9,7 @@ namespace net_core_api_auth.Controllers
     public class PeopleController : ControllerBase
     {
         [HttpGet("people/all")]
+        [Authorize]
         public ActionResult<IEnumerable<Person>> GetAll()
         {
             return new[]
