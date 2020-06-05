@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f9m+hpNKATZ2gBeQtfBx5CcDuV+k2o7EOA3GfFpdkgkJmd58LPrAxmwuENcP9KqMrobhXqIg0D70JSx2a0qUSg==",
+  "success": true,
+  "projectFilePath": "C:\\Working\\az204\\net-core-api-auth\\net-core-api-auth\\net-core-api-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iansi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
