@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "f9m+hpNKATZ2gBeQtfBx5CcDuV+k2o7EOA3GfFpdkgkJmd58LPrAxmwuENcP9KqMrobhXqIg0D70JSx2a0qUSg==",
+  "dgSpecHash": "0lvFfMWmh4YS9mfcLmyBKQiz+JeUCzgkKLJ/gRY5v0VD0FRvC2sF/8gk9Glcn917j+6s/WN+dTzGkyOsnmAN4w==",
   "success": true,
   "projectFilePath": "C:\\Working\\az204\\net-core-api-auth\\net-core-api-auth\\net-core-api-auth.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iansi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512",
     "C:\\Users\\iansi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
